@@ -2,7 +2,7 @@
 
 - 🔭 Estou Atualmente cusando Análise e Desenvolvimento de Sistemas.
 - 📫 Email: Rafalimatakaki@hotmail.com
-- 🌱 Atualmente estou estudando JAVA
+- 🌱 Atualmente Estagiário na empresa GFT usando .Net
 
 
   <div>
